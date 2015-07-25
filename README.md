@@ -1,6 +1,6 @@
 ## Question about Importing Modules under Pytest
 
-I'm converting some tests written earlier for Unittest and am having trouble with import statements when running them with Pytest.
+I have been converting some tests written earlier for Unittest and am having trouble with import statements when running them with Pytest.
 
 As an example, in the older code the module `create.py` in directory `lib` might be imported as
 
